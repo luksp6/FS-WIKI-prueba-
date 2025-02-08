@@ -2,7 +2,7 @@
 title: Armaduras
 ---
 
-| **Imagen** | **Armadura** | **Defensa** | **Compra** | **Clases Permitidas** | **Tácticas de Combate** |
+| **Imagen** | **Armadura** | **Defensa** | **Compra** | **Clases Permitidas** | **Tácticas de combate** |
 | --- | --- | --- | --- | --- | --- |
 | ![Archivo:54.png](images/armors/54.png) | Armadura de cuero (Altos) | 5/10 | 4000 | Todas menos hechiceros y naturalistas (Incluyendo sus subclases). | 0   |
 | ![Archivo:55.png](images/armors/55.png) | Armadura de cuero (Bajos) | 5/10 | 4000 | Todas menos hechiceros y naturalistas (Incluyendo sus subclases). | 0   |
