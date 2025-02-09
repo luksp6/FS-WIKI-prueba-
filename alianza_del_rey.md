@@ -27,7 +27,7 @@ Los fieles al Rey son ciudadanos que responden a los principios de lealtad, bond
 <br />
   
 
-| **Cuarta / Elite Real** | **Mago Nigro** | **Bardo Clérigo Druida** | **Paladin Asesino Cazador** | **Arquero Guerrero** |
+| **Cuarta /  Elite Real** | **Mago Nigro** | **Bardo Clérigo Druida** | **Paladin Asesino Cazador** | **Arquero Guerrero** |
 | --- | --- | --- | --- | --- |
 | **Nivel 40 + 400 criminales matados + 15 puntos de quest + Misión "Elite Real"** | -   | -   | -   | -   |
 
